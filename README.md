@@ -1,47 +1,19 @@
 # Sadaptive-Theme
-Fladaptive Theme
 ================
 
-This is an adaption of the included adaptive theme. It is not a complete theme
-on its own, but provides additional tweaks to change the look to a more simple
-and reduced flat style.
-
-Examples
---------
+This is an adaption of the included adaptive theme.
 
 You can use this theme with any color scheme, these examples are just to get an impression:
-
-![Zenburn](https://raw.githubusercontent.com/inta/sublime-theme-fladaptive/master/screenshots/zenburn.png)
-
-![Sixteen](https://raw.githubusercontent.com/inta/sublime-theme-fladaptive/master/screenshots/sixteen.png)
-
-![Mariana](https://raw.githubusercontent.com/inta/sublime-theme-fladaptive/master/screenshots/mariana.png)
-
-
-Changes
--------
-
-- tab images removed (just simple box style now)
-- hover style added to tabs
-- more subtle hover and selected style in side bar
-
 
 Installation
 ------------
 
 ### Package Control
 Open the command palette (Ctrl+Shift+P or Cmd+Shift+P), execute "Package
-Control: Install Package" select "Theme - Fladaptive" and hit enter.
-
-### Git
-Clone the repo into your `Packages` folder:
-```
-git clone https://github.com/inta/sublime-theme-fladaptive.git "Theme - Fladaptive"
-```
-
+Control: Install Package" select "Theme - Sadaptive" and hit enter.
 
 Activation
 ----------
 
 Just go to the command palette (Ctrl+Shift+P or Cmd+Shift+P), execute
-"UI: Select Theme" select "Adaptive.sublime-theme" and hit enter.
+"UI: Select Theme" select "Sadaptive.sublime-theme" and hit enter.
